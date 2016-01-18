@@ -21,7 +21,7 @@ import android.widget.HorizontalScrollView;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.Toast;
-
+//ÃÏºŸ≤‚ ‘
 public class MainActivity extends Activity {
 	private IFLYFullScreenAd ad;
 	
